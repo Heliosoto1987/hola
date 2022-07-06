@@ -1,0 +1,29 @@
+.hola {
+  background-color: green;
+  border: solid 1px black;
+  flex-grow: 1;
+  height: 50px;
+  margin: 30px;
+}
+
+.hola1 {
+  background-color: black;
+  border: solid 1px black;
+  flex-grow: 1;
+  height: 50px;
+  margin: 30px;
+}
+
+.hola2 {
+  background-color: purple;
+  border: solid 2px black;
+  flex-grow: 2;
+  height: 50px;
+  margin: 30px;
+}
+
+.row {
+  display: flex;
+  width: 80vw;
+  background-color: red;
+}
